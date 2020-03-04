@@ -1,0 +1,12 @@
+.visualization-image {
+  max-width: 100%;
+}
+h2 {
+  text-align: center;
+}
+.comparison-container img {
+  width: 100%;
+}
+body {
+  background-color: rgb(216, 226, 238);
+}
